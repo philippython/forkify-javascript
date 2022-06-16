@@ -102,4 +102,3 @@ const init = function () {
 init();
 
 ///////////////////////////////////////
-console.log('welcome');
